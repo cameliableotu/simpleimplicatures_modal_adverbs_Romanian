@@ -1654,7 +1654,7 @@ PennController("experiment" ,
 PennController("experiment" ,
 	    defaultText
 	        .print(),
-	       newText ("<p> Acum pisica verde a revenit în faţa cortinei, dar umbra este încă acolo, în lumina reflectoarelor.</p>")
+	       newText ("<p> Uite, acum pisica verde a revenit în faţa cortinei, dar umbra este încă acolo, în lumina reflectoarelor.</p>")
 	          ,    
 	       newText ("<p> Deci umbra nu este pisica verde! </p>")
 			,
