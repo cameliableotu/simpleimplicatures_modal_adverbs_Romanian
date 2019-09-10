@@ -75,7 +75,7 @@ PennController("details" ,
 	       ,
   newText ("<p> Puiul de dragon trebuie să descrie a cui crede el că este umbra. </p>")
 	       ,
-   newText ("<p> Când puiul de dragon oferă cea mai bună descriere, trebuie să-l recompensezi cu un măr mare. </p>"), 
+   newText ("<p> Când puiul de dragon oferă cea mai bună descriere, trebuie să-l răsplăteşti cu un măr mare. </p>"), 
    newText ("<p> Atunci când puiul de dragon nu oferă cea mai bună descriere, îi dai doar un măr mic. </p>")
 ,
 	      newImage("bigapple", "bigapple.png")
@@ -286,7 +286,7 @@ PennController("introductionanimals" ,
 PennController("introductionanimals" ,
 	    defaultText
 	        .print(),
-	       newText ("<p> Un grup de trei vaci. </p>")
+	       newText ("<p> Şi un grup de trei vaci. </p>")
 	    ,
 	                  
 	     newImage ("threecows.png")
@@ -308,7 +308,7 @@ PennController("experiment" ,
 	       ,
   newText ("<p> Puiul de dragon trebuie să descrie a cui crede el că este umbra. </p>")
 	       ,
-   newText ("<p> Când puiul de dragon oferă cea mai bună descriere, trebuie să-l recompensezi cu un măr mare. </p>"), 
+   newText ("<p> Când puiul de dragon oferă cea mai bună descriere, trebuie să-l răsplăteşti cu un măr mare. </p>"), 
    newText ("<p> Atunci când puiul de dragon nu oferă cea mai bună descriere, îi dai doar un măr mic. </p>")
 ,
 	      newImage("bigapple", "bigapple.png")
@@ -895,7 +895,7 @@ PennController("experiment" ,
 	       ,
   newText ("<p> Puiul de dragon trebuie să descrie a cui crede el că este umbra. </p>")
 	       ,
-   newText ("<p> Când puiul de dragon oferă cea mai bună descriere, trebuie să-l recompensezi cu un măr mare. </p>"), 
+   newText ("<p> Când puiul de dragon oferă cea mai bună descriere, trebuie să-l răsplăteşti cu un măr mare. </p>"), 
    newText ("<p> Atunci când puiul de dragon nu oferă cea mai bună descriere, îi dai doar un măr mic. </p>")
 ,
 	      newImage("bigapple", "bigapple.png")
@@ -1480,7 +1480,7 @@ PennController("experiment" ,
 	       ,
   newText ("<p> Puiul de dragon trebuie să descrie a cui crede el că este umbra. </p>")
 	       ,
-   newText ("<p> Când puiul de dragon oferă cea mai bună descriere, trebuie să-l recompensezi cu un măr mare. </p>"), 
+   newText ("<p> Când puiul de dragon oferă cea mai bună descriere, trebuie să-l răsplăteşti cu un măr mare. </p>"), 
    newText ("<p> Atunci când puiul de dragon nu oferă cea mai bună descriere, îi dai doar un măr mic. </p>")
 ,
 	      newImage("bigapple", "bigapple.png")
@@ -1901,6 +1901,8 @@ PennController ("experiment",
 		,
 		newText ("<p> Puiul de dragon: Sigur că este pisica roz.</p>")
 		,
+		newText ("<p> Cum vei răsplăti puiul de dragon? </p>")
+		,
 	       newImage("bigapple", "bigapple.png")
         .settings.size(200,200)
         // .print()
@@ -2063,7 +2065,7 @@ PennController("experiment" ,
 	       ,
   newText ("<p> Puiul de dragon trebuie să descrie a cui crede el că este umbra. </p>")
 	       ,
-   newText ("<p> Când puiul de dragon oferă cea mai bună descriere, trebuie să-l recompensezi cu un măr mare. </p>"), 
+   newText ("<p> Când puiul de dragon oferă cea mai bună descriere, trebuie să-l răsplăteşti cu un măr mare. </p>"), 
    newText ("<p> Atunci când puiul de dragon nu oferă cea mai bună descriere, îi dai doar un măr mic. </p>")
 ,
 	      newImage("bigapple", "bigapple.png")
