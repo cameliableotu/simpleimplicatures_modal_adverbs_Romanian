@@ -1476,7 +1476,7 @@ PennController("experiment" ,
 	    defaultText
 	        .print()
 	       ,
-  newText ("<p> Toţi pisicile s-au dus acum în spatele cortinei. <p>")
+  newText ("<p> Toate pisicile s-au dus acum în spatele cortinei. <p>")
 	       ,
   newText ("<p> Puiul de dragon trebuie să descrie a cui crede el că este umbra. </p>")
 	       ,
